@@ -1,0 +1,8 @@
+You can find orginal data billboard.csv in ../OriginalData/weather.txt.
+
+Variables:
+- station id
+- year
+- month
+- variable name
+- d1-d31 - days of a month

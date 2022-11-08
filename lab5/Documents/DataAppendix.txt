@@ -1,0 +1,14 @@
+# ../AnalysisData/temperature.csv
+File contains data about minimal and maximal temperature.
+Variables:
+- id - station id
+- date - date when measurement was done
+- tmin - minimal temperature
+- tmax - maximal temperature
+
+# ../AnalysisData/precipitation.csv
+File contains precipitation data.
+Variables:
+- id - station id
+- date - date when measurement was done
+- prcp - precipitation
