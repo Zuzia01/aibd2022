@@ -1,4 +1,4 @@
-You can find orginal data billboard.csv in ../OriginalData/weather.txt.
+You can find orginal data weather.csv in ../OriginalData/weather.txt.
 
 Variables:
 - station id
